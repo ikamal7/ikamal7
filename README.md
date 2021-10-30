@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 	Well, hello! 👋🏻 <img align="right" src="https://gpvc.arturio.dev/ikamal7" alt="Profile views">
 </h2>
 
-💼&nbsp;&nbsp;&nbsp;Web Developer at <a href="https://themebucket.net/">ThemeBucket</a>
+💼&nbsp;&nbsp;&nbsp;Software Developer at <a href="https://themebucket.net/">ThemeBucket</a>
 
 🌱&nbsp;&nbsp;&nbsp;I’m currently learning **ReactJS** & **Gutenberg**
 
