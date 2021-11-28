@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 📫&nbsp;&nbsp;&nbsp;Email me at kamalhose8920@gmail.com
 
-🌐&nbsp;&nbsp;&nbsp;Know more about me at <a href="https://kamal.pw" target="_blank">kamal.pw</a>
+🌐&nbsp;&nbsp;&nbsp;Know more about me at <a href="https://kamalhosen.xyz/" target="_blank">kamalhosen.xyz</a>
 
 <br>
 <br>
