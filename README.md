@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <img src="/img/Kamal-H.png">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ikamal7&show_icons=true&&count_private=true&include_all_commits=true&custom_title=My%20stats%20around%20here&title_color=FF6C00&text_color=000000&icon_color=FF6C00&locale=" align="right">
+<img align="left" alt="kamal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ikama7&show_icons=true&hide_border=true&&count_private=true&theme=tokyonight" />
 
 <h2>
 	Well, hello! 👋🏻 <img align="right" src="https://gpvc.arturio.dev/ikamal7" alt="Profile views">
