@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <img src="/img/Kamal-H.png">
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=ikama7&show_icons=true&hide_border=true&&count_private=true&theme=tokyonight" />
+<img align="left" alt="kamal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ikamal7&show_icons=true&hide_border=true&&count_private=true&theme=tokyonight" />
 
 <h2>
 	Well, hello! 👋🏻 <img align="right" src="https://gpvc.arturio.dev/ikamal7" alt="Profile views">
