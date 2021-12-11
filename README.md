@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 **ikamal7/ikamal7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img src="/img/Kamal-H.png">
+<img src="/img/banner.png">
 
 <img src="https://github-readme-stats.vercel.app/api?username=ikamal7&show_icons=true&&count_private=true&include_all_commits=true&custom_title=My%20stats%20around%20here&title_color=FF6C00&text_color=000000&icon_color=FF6C00&locale=" align="right">
 
