@@ -25,7 +25,7 @@
 
 - 🔭 I’m currently working on [Happy Monster](http://happymonster.dev/)
 
-- 🌱 I’m currently learning **Vue, Laravel**
+- 👯 I’m currently open for work and employment opportunities (remote and on-site)
 
 - 👨‍💻 All of my projects are available at [Links](https://kamalhosen.me/)
 
