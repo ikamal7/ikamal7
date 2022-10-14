@@ -23,13 +23,13 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-- 🔭 I’m currently working on [Happy Monster](http://happymonster.dev/)
+- 🔭 I’m currently working on [Cansfot Technologies](https://cansoft.com/)
 
-- 👯 I’m currently open for work and employment opportunities (remote and on-site)
-
-- 👨‍💻 All of my projects are available at [Links](https://kamalhosen.me/)
+- 👨‍💻 All of my projects are available at [Links](https://kamalhosen.me/#projects)
 
 - 💬 Ask me about **WordPress**
+
+- 🔧 Tools - VSCode, Insomnia, Beekeper Studio, Markdown Editors, Local by Flywheel, Docker and the Mighty Terminal with Oh MyZSH and PowerLevel 10K on Mac.
 
 - 📫 How to reach me **hi [at] kamalhosen.me**
 
