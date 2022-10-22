@@ -23,17 +23,23 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-- 🔭 I’m currently working on [Cansfot Technologies](https://cansoft.com/)
+- 🔭 I’m currently working on [Cansoft Technologies](https://cansoft.com/)
+
+- 💻 Freelance WordPress engineer at [Toptal](https://www.toptal.com/resume/kamal-hosen)
 
 - 👨‍💻 All of my projects are available at [Links](https://kamalhosen.me/#projects)
 
+- ⌨️ I write on my [blog](https://blog.kamalhosen.me/)
+
 - 💬 Ask me about **WordPress**
 
-- 🔧 Tools - VSCode, Insomnia, Beekeper Studio, Markdown Editors, Local by Flywheel, Docker and the Mighty Terminal with Oh MyZSH and PowerLevel 10K on Mac.
+- 🔧 Tools - **VSCode, Insomnia, Beekeper Studio, Markdown Editors, Local by Flywheel, Docker and the Mighty Terminal with Oh MyZSH and PowerLevel 10K on Mac**.
 
-- 📫 How to reach me **hi [at] kamalhosen.me**
+- 📧 How to reach me **hi [at] kamalhosen.me**
 
 - 📄 Know about my experiences [Website](https://kamalhosen.me/)
+
+- 📝 Here is my [resume](https://kamalhosen.me/resume.pdf) 
 
 ### Numbers
 ![kamal's Stats](https://github-readme-stats.vercel.app/api?username=ikamal7&theme=darcula&show_icons=true&hide_border=true&count_private=true)
@@ -45,7 +51,7 @@
 ### Where to find me
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khosen/) 
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ikamal8920)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/ikamal.me)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/kamalhosenn)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/khooseen)
 
 
