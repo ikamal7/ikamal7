@@ -23,7 +23,6 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-- 🔭 I’m currently working on [Cansoft Technologies](https://cansoft.com/)
 
 - 💻 Freelance WordPress engineer at [Toptal](https://www.toptal.com/resume/kamal-hosen)
 
