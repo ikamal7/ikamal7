@@ -25,7 +25,7 @@
 
 I am a Lead Developer at [Awe Design](https://www.awestudio.agency), with a passion for crafting remarkable digital experiences. My expertise lies in Full Stack Development, and I thrive on working with cutting-edge technologies such as Alpine.js, Vue.js, React.js, Laravel, Headless Tech, APIs, RDBMS, WordPress, and TailwindCSS. My focus is on building robust system architectures that deliver seamless user experiences.
 
-Aside from my role at Awe Design, I am also a founder of [Codelabs](https://codelabs.digital), a tech-savvy venture that has been dedicated to providing innovative solutions. In my daily work routine, I actively code for WordPress themes and plugins, as well as Laravel, Shell Scripts, and various APIs. I enjoy creating in-house solutions, end-user products, and consumer-oriented applications.
+Aside from my role at Awe Design, I do freelance work as a WordPress developer. You can find more about my freelance work and expertise on my Toptal profile: [Kamal Hosen's Toptal Profile](https://www.toptal.com/resume/kamal-hosen)
 
 Currently, I am open to exciting work opportunities and looking forward to contributing my skills and expertise to new and innovative projects.
 
