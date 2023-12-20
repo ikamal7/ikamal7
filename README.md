@@ -33,19 +33,18 @@ Currently, I am open to exciting work opportunities and looking forward to contr
 
 - 💻 Freelance WordPress engineer at [Toptal](https://www.toptal.com/resume/kamal-hosen)
 
-- 👨‍💻 All of my projects are available at [Links](https://kamalhosen.me/#projects)
+- 👨‍💻 All of my projects are available at [Links](https://kamalhosen.com/#projects)
 
-- ⌨️ I write on my [blog](https://blog.kamalhosen.me/)
 
 - 💬 Ask me about **WordPress**
 
 - 🔧 Tools - **VSCode, Insomnia, Markdown Editors, Valet, Local by Flywheel, Docker and the Mighty Terminal with Oh MyZSH and PowerLevel 10K on Mac**.
 
-- 📧 How to reach me **hi [at] kamalhosen.me**
+- 📧 How to reach me **hi [at] kamalhosen.com**
 
-- 📄 Know about my experiences [Website](https://kamalhosen.me/)
+- 📄 Know about my experiences [Website](https://kamalhosen.com/)
 
-- 📝 Here is my [resume](https://kamalhosen.me/resume.pdf) 
+- 📝 Here is my [resume](https://kamalhosen.com/resume.pdf) 
 
 ### Numbers
 ![kamal's Stats](https://github-readme-stats.vercel.app/api?username=ikamal7&theme=darcula&show_icons=true&hide_border=true&count_private=true)
