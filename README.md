@@ -29,7 +29,7 @@ Aside from my role at Awe Design, I do freelance work as a WordPress developer. 
 
 Currently, I am open to exciting work opportunities and looking forward to contributing my skills and expertise to new and innovative projects.
 
-- 👨‍💻 Lead Developer at [Awe Design](https://www.awestudio.agency)
+- 👨‍💻 Lead Developer at [Awe Design Studio](https://www.awestudio.agency)
 
 - 💻 Freelance WordPress engineer at [Toptal](https://www.toptal.com/resume/kamal-hosen)
 
