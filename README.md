@@ -32,8 +32,6 @@ Currently, I am open to exciting work opportunities and looking forward to contr
 
 - 💻 Freelance WordPress engineer at [Toptal](https://www.toptal.com/resume/kamal-hosen)
 
-- 👨‍💻 All of my projects are available at [Links](https://kamalhosen.com/#projects)
-
 
 - 💬 Ask me about **WordPress**
 
