@@ -23,7 +23,7 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-I am the Head of Idea & Coding at Codelabs Digital(https://codelabsdigital.co), where I lead the development and execution of innovative digital solutions. With a strong focus on WordPress and Shopify, I occasionally step into product-building roles, ensuring that our clients receive powerful and seamless web experiences. My expertise spans Full Stack Development, with a deep understanding of technologies like PHP, JavaScript, React.js, WordPress, and Shopify. I’m passionate about creating user-centered solutions and leveraging the latest tools to craft dynamic, scalable web applications.
+I am the Head of Idea & Coding at [Codelabs Digital](https://codelabsdigital.co), where I lead the development and execution of innovative digital solutions. With a strong focus on WordPress and Shopify, I occasionally step into product-building roles, ensuring that our clients receive powerful and seamless web experiences. My expertise spans Full Stack Development, with a deep understanding of technologies like PHP, JavaScript, React.js, WordPress, and Shopify. I’m passionate about creating user-centered solutions and leveraging the latest tools to craft dynamic, scalable web applications.
 
 Aside from my role at Codelabs Digital, I do freelance work as a WordPress developer. You can find more about my freelance work and expertise on my Toptal profile: [Kamal Hosen's Toptal Profile](https://www.toptal.com/resume/kamal-hosen)
 
