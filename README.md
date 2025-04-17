@@ -23,9 +23,15 @@
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
-I am the Head of Idea & Coding at [Codelabs Digital](https://codelabsdigital.co), where I lead the development and execution of innovative digital solutions. With a strong focus on WordPress and Shopify, I occasionally step into product-building roles, ensuring that our clients receive powerful and seamless web experiences. My expertise spans Full Stack Development, with a deep understanding of technologies like PHP, JavaScript, React.js, WordPress, and Shopify. I’m passionate about creating user-centered solutions and leveraging the latest tools to craft dynamic, scalable web applications.
 
-Aside from my role at Codelabs Digital, I do freelance work as a WordPress developer. You can find more about my freelance work and expertise on my Toptal profile: [Kamal Hosen's Toptal Profile](https://www.toptal.com/resume/kamal-hosen)
+👋 Hi, I'm Kamal Hosen — a passionate WordPress Developer with 6+ years of experience building custom plugins, themes, and full-stack web applications. I specialize in PHP, JavaScript, Laravel, React, and Vue.
+
+🔧 Currently building tools that empower WordPress users and developers.
+
+🚀 Let's build something amazing together!
+
+
+Aside from my role, I do freelance work as a WordPress developer. You can find more about my freelance work and expertise on my Toptal profile: [Kamal Hosen's Toptal Profile](https://www.toptal.com/resume/kamal-hosen)
 
 Currently, I am open to exciting work opportunities and looking forward to contributing my skills and expertise to new and innovative projects.
 
@@ -35,13 +41,11 @@ Currently, I am open to exciting work opportunities and looking forward to contr
 
 - 💬 Ask me about **WordPress**
 
-- 🔧 Tools - **VSCode, Postman, Markdown Editors, Valet, Local by Flywheel, Docker and the Mighty Terminal with Oh MyZSH and PowerLevel 10K on Mac**.
 
 - 📧 How to reach me **hi [at] kamalhosen.com**
 
 - 📄 Know about my experiences [Website](https://kamalhosen.com/)
 
-- 📝 Here is my [resume](https://kamalhosen.com/resume.pdf) 
 
 ### Numbers
 ![kamal's Stats](https://github-readme-stats.vercel.app/api?username=ikamal7&theme=darcula&show_icons=true&hide_border=true&count_private=true)
