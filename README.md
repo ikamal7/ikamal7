@@ -46,6 +46,10 @@ Currently, I am open to exciting work opportunities and looking forward to contr
 
 - 📄 Know about my experiences [Website](https://kamalhosen.com/)
 
+# WordPress Activity
+[![Kamal's WordPress Activity](https://www.cardpress.us/card?username=ikamal&badges=true)](https://www.cardpress.us/)
+
+
 
 ### Numbers
 ![kamal's Stats](https://github-readme-stats.vercel.app/api?username=ikamal7&theme=darcula&show_icons=true&hide_border=true&count_private=true)
