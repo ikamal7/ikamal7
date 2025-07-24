@@ -24,27 +24,27 @@
 ![Mac OS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
 
 
-👋 Hi, I'm Kamal Hosen — a passionate WordPress Developer with 6+ years of experience building custom plugins, themes, and full-stack web applications. I specialize in PHP, JavaScript, Laravel, React, and Vue.
+👋 Hi, I'm Kamal Hosen — a passionate WordPress Developer with over 6 years of experience crafting custom plugins, themes, and full-stack web applications. I specialize in WordPress architecture, plugin development, Gutenberg blocks, and React/Vue-based admin interfaces.
 
-🔧 Currently building tools that empower WordPress users and developers.
+🔧 I am currently focused on building powerful developer tools and user-friendly solutions that enhance the WordPress ecosystem. From plugin architecture to advanced admin UI, I bring clean code and performance optimization to every project.
 
 🚀 Let's build something amazing together!
 
+🛠️ I enjoy working on:
+- Innovative plugin development using modern JS frameworks like Vue 3 and React
+- Crafting dynamic Gutenberg blocks and custom admin pages
+- WordPress SaaS integration, licensing systems, and REST API applications
+- Clean, scalable codebases that follow WordPress coding standards
 
-Aside from my role, I do freelance work as a WordPress developer. You can find more about my freelance work and expertise on my Toptal profile: [Kamal Hosen's Toptal Profile](https://www.toptal.com/resume/kamal-hosen)
+💼 I also work as a freelance WordPress engineer via [Toptal](https://www.toptal.com/resume/kamal-hosen), collaborating with global clients on high-impact projects.
 
-Currently, I am open to exciting work opportunities and looking forward to contributing my skills and expertise to new and innovative projects.
+🌐 Learn more about me:
+- Portfolio & Resume: [kamalhosen.com](https://kamalhosen.com/)
+- Email: **hi [at] kamalhosen.com**
 
+💬 Ask me about:
+**WordPress Plugin Development, Gutenberg Blocks, WP REST API, React/Vue Integration, Full-stack WordPress Projects**
 
-- 💻 Freelance WordPress engineer at [Toptal](https://www.toptal.com/resume/kamal-hosen)
-
-
-- 💬 Ask me about **WordPress**
-
-
-- 📧 How to reach me **hi [at] kamalhosen.com**
-
-- 📄 Know about my experiences [Website](https://kamalhosen.com/)
 
 # WordPress Activity
 [![Kamal's WordPress Activity](https://www.cardpress.us/card?username=ikamal&badges=true)](https://www.cardpress.us/)
