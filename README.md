@@ -41,7 +41,7 @@ Also working as a freelance WordPress engineer at [Toptal](https://www.toptal.co
 ### 📊 GitHub Insights
 
 ![kamal's Stats](https://github-readme-stats.vercel.app/api?username=ikamal7&theme=darcula&show_icons=true&count_private=true)  
-[![kamal's Streak](https://streak-stats.demolab.com/?user=ikamal7)](https://git.io/streak-stats)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ikamal7&theme=dark&mode=weekly)](https://git.io/streak-stats)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ikamal7&theme=darcula&layout=compact)
 
 ---
