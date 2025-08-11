@@ -11,7 +11,7 @@ I’m passionate about clean architecture, user-focused development, and pushing
 - 🧩 WordPress Plugin Architecture
 - ⚛️ Gutenberg Blocks with React
 - 🖼️ Vue 3 + Tailwind for Admin UI
-- 🔐 SaaS & Licensing Integration (EDD, Freemius-style)
+- 🔐 WordPress + Vue/React
 - 🧼 Clean PHP & JS following WordPress standards
 
 ---
