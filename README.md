@@ -14,7 +14,7 @@
 
 I'm a **Full-Stack Developer** based in Sylhet, Bangladesh 🇧🇩, specializing in the WordPress and Laravel ecosystems. I build scalable plugins, Gutenberg block libraries, WooCommerce extensions, and SaaS tools — with a strong focus on clean architecture and modern frontend patterns.
 
-- 🏢 Full-time developer at **[Six2Eight](https://six2eight.com)** — building things with Gutenberg & Laravel
+- 🏢 Full-time indie developer at **[flowPlugins](https://github.com/flowplugins/)** — building things for WordPress & Laravel
 - 🌍 Freelance WordPress & Laravel engineer on **[Toptal](https://www.toptal.com/resume/kamal-hosen)**
 - 🔌 7+ years crafting WordPress plugins, themes, and full-stack solutions
 - 🌱 Currently deep-diving into Gutenberg internals and Laravel 13
@@ -70,7 +70,7 @@ I'm a **Full-Stack Developer** based in Sylhet, Bangladesh 🇧🇩, specializin
 
 <div align="center">
 
-[![Kamal's WordPress Activity](https://www.cardpress.us/card?username=ikamal&badges=true)](https://profiles.wordpress.org/ikamal/)
+[![WordPress.org Profile](https://img.shields.io/badge/WordPress.org-ikamal-21759B?logo=wordpress)](https://profiles.wordpress.org/ikamal/)
 
 </div>
 
