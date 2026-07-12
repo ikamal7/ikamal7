@@ -12,7 +12,7 @@
 
 ## 👋 About Me
 
-I'm a **Full-Stack Developer** based in Sylhet, Bangladesh 🇧🇩, specializing in the WordPress and Laravel ecosystems. I build scalable plugins, Gutenberg block libraries, WooCommerce extensions, and SaaS tools — with a strong focus on clean architecture and modern frontend patterns.
+I'm a **Full-Stack Developer** based in Dhaka, Bangladesh 🇧🇩, specializing in the WordPress and Laravel ecosystems. I build scalable plugins, Gutenberg block libraries, WooCommerce extensions, and SaaS tools — with a strong focus on clean architecture and modern frontend patterns.
 
 - 🏢 Full-time indie developer at **[flowPlugins](https://github.com/flowplugins/)** — building things for WordPress & Laravel
 - 🌍 Freelance WordPress & Laravel engineer on **[Toptal](https://www.toptal.com/resume/kamal-hosen)**
