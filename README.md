@@ -19,7 +19,8 @@ I'm a **Full-Stack Developer** based in Dhaka, Bangladesh 🇧🇩, specializing
 - 🔌 7+ years crafting WordPress plugins, themes, and full-stack solutions
 - 🌱 Currently deep-diving into Gutenberg internals and Laravel 13
 - 💼 Open to freelance projects — WordPress, WooCommerce, Laravel
-- 📫 **hi [at] kamalhosen.com** · 🌐 [kamalhosen.com](https://kamalhosen.com)
+- 📫 **hi@kamalhosen.com**
+- 🌐 [kamalhosen.com](https://kamalhosen.com)
 
 ---
 
