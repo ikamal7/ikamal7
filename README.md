@@ -14,11 +14,11 @@
 
 I'm a **Full-Stack Developer** based in Dhaka, Bangladesh 🇧🇩, specializing in the WordPress and Laravel ecosystems. I build scalable plugins, Gutenberg block libraries, WooCommerce extensions, and SaaS tools — with a strong focus on clean architecture and modern frontend patterns.
 
-- 🏢 Full-time indie developer at **[flowPlugins](https://github.com/flowplugins/)** — building things for WordPress & Laravel
-- 🌍 Freelance WordPress & Laravel engineer on **[Toptal](https://www.toptal.com/resume/kamal-hosen)**
-- 🔌 7+ years crafting WordPress plugins, themes, and full-stack solutions
-- 🌱 Currently deep-diving into Gutenberg internals and Laravel 13
-- 💼 Open to freelance projects — WordPress, WooCommerce, Laravel
+- 💼 7+ years building WordPress, WooCommerce & Laravel applications
+- 🌍 WordPress Engineer at Toptal
+- ❤️ Open Source Contributor to WordPress, Gutenberg & WooCommerce
+- 🚀 Building [**Optiq**](https://wordpress.org/plugins/optiq/), **Consenti**, and other plugins & developer tools
+- 📍 Dhaka, Bangladesh
 - 📫 **hi@kamalhosen.com**
 - 🌐 [kamalhosen.com](https://kamalhosen.com)
 
@@ -55,11 +55,6 @@ I'm a **Full-Stack Developer** based in Dhaka, Bangladesh 🇧🇩, specializing
 ## 📊 GitHub Insights
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=ikamal7&theme=tokyonight&show_icons=true&count_private=true&hide_border=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikamal7&theme=tokyonight&layout=compact&hide_border=true" height="180" />
-
-<br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ikamal7&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
